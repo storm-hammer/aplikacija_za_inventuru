@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201965375215",
+    "project_id": "aplikacija-za-inventuru",
+    "storage_bucket": "aplikacija-za-inventuru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201965375215:android:803ec7585c25667a47d51a",
+        "android_client_info": {
+          "package_name": "com.example.aplikacija_za_inventuru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201965375215-vad8j312u284rit8kquordhbu97978vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNbue-pzoa-JFhQe3hd5e_S0HduBnwH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201965375215-vad8j312u284rit8kquordhbu97978vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
